@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("second gitadd");
         System.out.println("hot fixadd");
         System.out.println("master add1");
+        System.out.println("hot fixadd1");
     }
 }
