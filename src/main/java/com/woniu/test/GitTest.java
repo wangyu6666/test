@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("first gitadd");
         System.out.println("second gitadd");
         System.out.println("hot fixadd");
+        System.out.println("master add1");
     }
 }
